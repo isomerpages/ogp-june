@@ -8,10 +8,8 @@ notification: Hello There!
 sections:
   - hero:
       title: Hero title
-      subtitle: Hero subtitle
+      subtitle: This is hero subtitle!
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -25,4 +23,9 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infobar:
+      title: created Infobar Title
+      subtitle: created Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
