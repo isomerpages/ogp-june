@@ -2,4 +2,5 @@ collections:
   hello:
     output: true
     order:
+      - Content.md
       - example-page.md
