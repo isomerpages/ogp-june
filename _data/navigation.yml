@@ -4,5 +4,7 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
+  - title: Hello
+    url: /permalink
   - title: Content
     url: /permalink
